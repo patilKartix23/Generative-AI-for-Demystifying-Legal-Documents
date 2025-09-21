@@ -1,0 +1,31 @@
+SAMPLE RENTAL AGREEMENT
+
+This is a sample rental agreement for testing the LegalEase document analysis system.
+
+PARTIES:
+Landlord: John Smith
+Tenant: Jane Doe
+
+PROPERTY:
+123 Main Street, Anytown, USA
+
+TERMS:
+1. Rental Amount: $1,200 per month
+2. Security Deposit: $1,800 (1.5 months rent)
+3. Lease Duration: 12 months
+4. Early Termination: Tenant must pay 3 months rent penalty
+5. Pet Policy: No pets allowed without written consent
+6. Maintenance: Tenant responsible for repairs under $200
+
+CLAUSES:
+- Automatic renewal unless 60-day notice is given
+- Landlord may increase rent by 5% annually
+- Tenant is responsible for all utilities
+- No smoking on the premises
+- Security cameras may be installed in common areas
+
+This document contains typical rental agreement terms and conditions for testing purposes.
+
+SIGNATURES:
+Landlord: _________________ Date: _________
+Tenant: _________________ Date: _________
